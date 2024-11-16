@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|c:\\users\\solid_pc\\source\\repos\\onllineshopping\\onllineshopping\\cart.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\cart.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineshopping\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineshopping\\showproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\showproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|c:\\users\\solid_pc\\source\\repos\\onllineshopping\\onllineshopping\\showproducts.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\showproducts.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowProducts.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\ShowProducts.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\ShowProducts.xaml.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\ShowProducts.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\ShowProducts.xaml.cs",
+              "ViewState": "AgIAABUAAABgzMzMzMwywCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:51:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowProducts.xaml",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\ShowProducts.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\ShowProducts.xaml",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\ShowProducts.xaml",
+              "RelativeToolTip": "onllineShopping\\ShowProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T12:34:46.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.xaml",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\cart.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\cart.xaml",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\cart.xaml",
+              "RelativeToolTip": "onllineShopping\\cart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T12:49:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cart.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\cart.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\cart.xaml.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\onllineShopping\\onllineShopping\\cart.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\cart.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:20:58.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

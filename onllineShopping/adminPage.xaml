@@ -1,0 +1,25 @@
+﻿<Page x:Class="onllineShopping.adminPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:onllineShopping"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="adminPage">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <DataGrid Name="dgrid" Grid.Row="1" Width="600" Height="200"></DataGrid>
+
+        <TextBox Name="txtprice" Text="Price" TextAlignment="Center" Grid.Row="0" Width="180" Height="30" FontSize="15" FontWeight="Bold" Margin="33,112,587,83" BorderThickness="3,3,3,3" BorderBrush="#FF0056FF"></TextBox>
+
+        <TextBox x:Name="txtname" Text="Name" TextAlignment="Center" Grid.Row="0" Width="180" Height="30" FontSize="15" FontWeight="Bold" Margin="33,55,587,140" BorderThickness="3,3,3,3" BorderBrush="#FF0056FF"/>
+        <Button Content="Add prodeuct" Width="120" Grid.Row="0" FontWeight="Bold" FontSize="15" Margin="229,164,451,29" Click="Button_Click"/>
+
+    </Grid>
+</Page>
